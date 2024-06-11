@@ -2,6 +2,7 @@
 
 Integrantes.
 Ana Nelia Domínguez López
+Edrien Fernández Osorio
 
 Especificaciones:
 Para probar el apartado de visedecano usar juego de datos: 
