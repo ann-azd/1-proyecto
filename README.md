@@ -4,7 +4,7 @@ Integrantes.
 
 
 Ana Nelia Domínguez López.
-Edrien Fernández Osorio.
+Edrien Fernández Orencio.
 Darien Santana.
 
 
