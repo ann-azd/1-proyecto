@@ -1,0 +1,36 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+    font-family: 'font-family: "Fredoka", sans-serif;';
+    src: url('../public/fonts/Fredoka-VariableFont_wdth\,wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+.active {
+@apply border-cyan-600  
+}
+* {
+ @apply box-border
+}
+
+/* Roboto Bold */
+/* Track */
+::-webkit-scrollbar-track {
+border-radius: 50px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: #d8d8d8;
+opacity: 10px;
+border-radius: 10px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb:hover{
+background: #c9c9c9;
+opacity: 10px;
+border-radius: 10px;
+}
