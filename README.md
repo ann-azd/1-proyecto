@@ -1,8 +1,12 @@
 # Proyecto-1-React-Backend-Django-Rest-Framework
 
 Integrantes.
-Ana Nelia Domínguez López
-Edrien Fernández Osorio
+
+
+Ana Nelia Domínguez López, 
+Edrien Fernández Osorio,
+Darien Santana
+
 
 Especificaciones:
 Para probar el apartado de visedecano usar juego de datos: 
