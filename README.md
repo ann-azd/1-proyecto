@@ -6,6 +6,7 @@ Integrantes.
 Ana Nelia Domínguez López.
 Edrien Fernández Orencio.
 Darien Santana.
+Pablo Sanchez Santamaria
 
 
 Especificaciones:
